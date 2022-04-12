@@ -4,8 +4,6 @@
 - 🌱 I’m currently learning various techniques in Machine Learning and Deep Learning
 - 🔎 Looking for roles in Data Science, Data Analytics, or Business Intelligence
 
-![](https://komarev.com/ghpvc/?username=risha-gandhi&color=green)
-
 <h3 id="social">Contact Me</h3>
 
 <a href="//github.com/risha-gandhi"><img src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/github.svg" width="30px" style="width: 30px;margin-right: 10px;" /></a>
