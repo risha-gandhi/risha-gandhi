@@ -2,7 +2,7 @@
 
 - 👩🏻‍🎓 I'm a Master's student at University of Washington studying Business Analytics
 - 🌱 I’m currently learning various techniques in Machine Learning and Deep Learning
-- 🔎 Looking for roles in Data Science, Data Analytics, or Business Inteliigence
+- 🔎 Looking for roles in Data Science, Data Analytics, or Business Intelligence
 
 ![](https://komarev.com/ghpvc/?username=risha-gandhi&color=green)
 
